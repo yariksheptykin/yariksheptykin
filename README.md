@@ -6,7 +6,7 @@ Systems Architect and DevOps specialist with a focus on building scalable, high-
 
 ### 🚀 The Profile
 - Optimizing peformance on high-traffic systems
-- Building e-commerce web applications[cite: 38, 39].
+- Building e-commerce web applications
 - Certified Kubernetes Application Developer (CKAD).
 - Proud former contributor to the Firefox Web Browser (Mozilla).
 
